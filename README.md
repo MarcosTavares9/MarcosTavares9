@@ -1,12 +1,8 @@
-- 👋 Oi, Eu sou @MarcosTavares9
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Olá, eu sou Marcos Vinícius! 👋
 
-<!---
-MarcosTavares9/MarcosTavares9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas na FATEC
+- 📊 Fazendo Bootcamp de Analista de Dados com Python e PowerBI na DIO
+- 🔧 Tecnologias: 🐍 Python,💻 Git, 📊 PowerBI
+
+### Projetos em Destaque:
+- [Projeto 1: Sistema Bancário com Python Simples(link)
