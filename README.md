@@ -1,14 +1,12 @@
 # Olá, eu sou Marcos Vinícius! 👋
 
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas na FATEC
-- 📊 Fazendo Bootcamp de Analista de Dados com Python e PowerBI na DIO
-- 🔧 Tecnologias: 🐍 Python, 💻 Git, 📊 PowerBI
+## 💻 Sobre Mim
+- **Desenvolvedor Júnior** trabalhando com APIs em **AdonisJS**
+- 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na FATEC
+- 📊 **Bootcamp de Analista de Dados** com Python e PowerBI na DIO
+- 🔧 **Tecnologias**: 🐍 Python, 💻 Git, 📊 PowerBI, ⚡ AdonisJS, 🐳 Docker, 🌐 Nginx (API Gateway), ⚛️ React (básico)
 
 ---
 
-### Projetos em Destaque:
-- [Projeto 1: Sistema Bancário com Python](https://github.com/MarcosTavares9/Sistema-Banc-rio-em-Python---Banco-Marcos-Rabelo.git)
-  - **Sistema Simples**: Implementação básica que permite realizar depósitos, saques e consultar extratos.
-  - **Sistema com Múltiplas Contas**: Versão aprimorada que suporta a criação e gerenciamento de várias contas para um único usuário.
-
----
+## 💡 O que estou aprendendo?
+Atualmente, estou aprimorando minhas habilidades em **React** para desenvolver interfaces mais dinâmicas e responsivas, além de aprofundar meu conhecimento em **AdonisJS** para criar APIs robustas e escaláveis.
